@@ -1,0 +1,27 @@
+h1, h2 {
+  text-align: center;
+  font-family: 'Lobster', sans-serif;
+}
+.Kelly {
+  margin: 150px;
+  position: relative;
+}
+.Beth {
+  margin: 150px;
+}
+.Layne {
+  margin: 150px;
+}
+.Duke{
+  margin: 150px;
+}
+img {
+  float: inside;
+}
+body {
+  font-family: 'Times New Roman', sans-serif;
+  font-size: 20px;
+  color: black;
+  text-align: center;
+  background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mcx060120fe-womensurf-01-1591288996.jpg");
+}
